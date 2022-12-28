@@ -1,0 +1,17 @@
+
+{
+    "amount": 150,
+    "currency": "AUD",
+    "description": "150 AUD @ Ecommerce Store",
+    "payin_method_name": "au_bank_npp",
+    "payin_method_param": {
+    "payid_reference": "invoice_123"
+    },
+    "organization_reference_id": "some-org-ref-2211",
+    "customer_id": "customer_b61b9f8f380a41619a10941256b8ef62",
+    "metadata": {
+      "invoice_id": "invoice_1234"
+    }
+}
+
+  
